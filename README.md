@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johangeorge10" alt="johangeorge10" /></a> </p>
 
-- 🔭 I’m currently working on **Tourism Management**
-
 - 🌱 I’m currently learning **CICSA(Certified IT Infrastructure and Cyber SOC Analyst)**
 
 - 📫 How to reach me **johangeorge2002@gmail.com**
